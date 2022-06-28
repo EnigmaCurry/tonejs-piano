@@ -1,0 +1,16 @@
+.git
+*.wav
+
+node_modules
+
+.jshintrc
+
+cors.json
+.DS_Store
+*.sublime-workspace
+*.sublime-project
+build
+.idea
+.vscode
+temp/
+coverage
